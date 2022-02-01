@@ -143,3 +143,5 @@ pyvenv.cfg
 pip-selfcheck.json
 
 
+# ignore commit message
+.gitcommit
